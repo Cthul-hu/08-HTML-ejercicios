@@ -1,0 +1,80 @@
+
+img{
+    width: 90%;
+    width: 300px;
+    margin: auto;
+    display: block;
+    height: 300px;
+    border-radius: 50%;
+   
+}
+
+.titulo{
+    text-align: center;
+    font-size: 27px;
+    background-color: rgb(182, 182, 255);
+    color: white;
+    
+}
+.subtitulos{
+    width: 300px;
+    font-size: 27px;
+    background-color: rgb(182, 182, 255);
+    color: white;
+    float: right;
+    height: 1100px;
+    border-radius: 50px;
+    text-align: center;
+}
+.subtitulos2{
+    
+    font-size: 27px;
+    background-color: rgb(182, 182, 255);
+    color: white;
+    text-align: center;
+   width: 1000PX;
+   margin: 15px;
+   border-radius: 50px;
+    
+}
+
+.cuadrado{
+    font-size: 27px;
+    background-color: rgb(182, 182, 255);
+    color: white;
+    text-align: center;
+   width: 1000PX;
+   margin: 15px;
+   border-radius: 15px;
+    
+
+}
+
+.experiencia{
+    font-size: 27px;
+    background-color: rgb(182, 182, 255);
+    color: white;
+    text-align: center;
+    width: 1000PX;
+    margin: 15PX;
+    border-radius: 15px;
+
+}
+
+
+
+ul{
+    list-style: none;
+
+}
+
+.hobbiess{
+    font-size: 27px;
+    background-color: rgb(182, 182, 255);
+    color: white;
+    text-align: center;
+    width: 1000PX;
+    margin: 15PX;
+    border-radius: 15px;
+
+}
